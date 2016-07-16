@@ -1,14 +1,14 @@
 {
-  "name": "hyperterm-atom-dark",
+  "name": "hyperterm-monokai",
   "version": "1.0.0",
-  "description": "Hyperterm theme based on Atom One Dark theme",
+  "description": "Hyperterm theme based on a modified Monokai theme",
   "main": "index.js",
   "keywords": [
     "hyperterm",
     "hyperterm-theme",
     "colors",
-    "atom"
+    "monokai"
   ],
-  "author": "Mark Otto",
+  "author": "kurisubrooks",
   "license": "MIT"
 }
