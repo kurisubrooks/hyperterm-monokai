@@ -1,25 +1,25 @@
 
-const backgroundColor = '#21252b'
-const foregroundColor = '#abb2bf'
+const backgroundColor = '#323232'
+const foregroundColor = '#FFFFFF'
 const cursorColor = foregroundColor
 
 const colors = [
   backgroundColor,
-  '#e06c75', // red
-  '#98c379', // green
-  '#d19a66', // yellow
-  '#56b6c2', // blue
-  '#C678DD', // pink
-  '#56B6C2', // cyan
-  '#d0d0d0', // light gray
-  '#808080', // medium gray
-  '#e06c75', // red
-  '#98c379', // green
-  '#d19a66', // yellow
-  '#56b6c2', // blue
-  '#C678DD', // pink
-  '#56B6C2', // cyan
-  '#ffffff', // white
+  '#E12C4D', // red
+  '#88DD50', // green
+  '#FDD62D', // yellow
+  '#1050AC', // blue
+  '#9E60AD', // pink
+  '#4197B3', // cyan
+  '#BFBFBF', // light gray
+  backgroundColor, // medium gray
+  '#E12C4D', // red
+  '#88DD50', // green
+  '#FDD62D', // yellow
+  '#1050AC', // blue
+  '#9E60AD', // pink
+  '#4197B3', // cyan
+  '#FFFFFF', // white
   foregroundColor
 ]
 
